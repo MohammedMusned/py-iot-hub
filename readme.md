@@ -43,6 +43,6 @@ docker-compose down
 
 I've put together some docs and diagrams to give a better idea of how everything is structured under the hood. Check them out below:
 
-- **[API Reference](DOC/api-list.md)**: A straightforward list of the available API endpoints.
-- **[System Diagram](DOC/img/System_diagram.drawio.png)**: A high-level look at how the different components talk to each other.
-- **[Database ERD](DOC/img/ER_diagram.drawio.png)**: Shows the layout of our database tables.
+- **[API Reference](api-list.md)**: A straightforward list of the available API endpoints.
+- **[System Diagram](System_diagram.drawio.png)**: A high-level look at how the different components talk to each other.
+- **[Database ERD](ER_diagram.drawio.png)**: Shows the layout of our database tables.
